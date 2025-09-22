@@ -44,9 +44,10 @@ Total Click: 25
 Total Match: 5
 Match Percentage: 20.000%
 
+```
 ## 📸 App Screenshot
 
 Here's how the Lucky Dice app looks in action:
 
-![App Screenshot](assets/ss1.png)
-![App Screenshot](assets/ss2.png)
+![App Screenshot 1](assets/ss1.png)
+![App Screenshot 2](assets/ss2.png)
