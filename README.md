@@ -40,9 +40,9 @@ flutter:
 
 ## 📊 Example Output
 ```yaml
-Total Click: 25
-Total Match: 5
-Match Percentage: 20.000%
+Total Click: 21
+Total Match: 4
+Match Percentage: 19.048%
 
 ```
 ## 📸 App Screenshot
